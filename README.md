@@ -1,1 +1,2 @@
-# Car-Price-Prediction-using-Machine-Learning
+## Car Price Prediction using Machine Learning
+This project focuses on predicting the selling price of used cars using Python and machine learning. It covers the complete workflow from data preprocessing and exploratory analysis to feature engineering and model development. Various regression models are applied to identify key factors influencing car prices, providing valuable insights for buyers, sellers, and data enthusiasts. Ideal for those looking to practice real-world ML techniques in the automotive sector.
